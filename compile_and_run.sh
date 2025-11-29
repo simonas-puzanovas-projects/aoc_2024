@@ -1,1 +1,1 @@
-gcc -Wall -o main day_1.c && ./main
+gcc -o main day_2.c && ./main
