@@ -1,1 +1,1 @@
-gcc -o main day_2.c && ./main
+gcc -o main day_3_part2.c && ./main
